@@ -1,0 +1,26 @@
+// Sample - Gulp/Karma Config
+{
+    "name": "gulp-karma",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/karma-runner/gulp-karma"
+    },
+    "bugs": {
+      "url": "https://github.com/karma-runner/gulp-karma/issues"
+    },
+    "scripts": {
+      "test": "gulp test"
+    },
+    "homepage": "https://github.com/karma-runner/gulp-karma",
+    "devDependencies": {
+      "jasmine": "^2.4.1",
+      "karma": "1.x || ^0.13.0",
+      "karma-jasmine": "1.x || ^0.3.6",
+      "karma-chrome-launcher": "1.x || ^0.2.0",
+      "gulp": "^3.9.0"
+    }
+  }
+//   End - Sample gulp/karma config
+  © 2019 GitHub, Inc.
